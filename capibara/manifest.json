@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "name": "Capibara",
+  "nameSlug": "capibara",
+  "category": "Animaux mignons",
+  "categorySlug": "animaux-mignons",
+  "description": "Un capybara mignon qui adore les longs bains chauds",
+  "bundleVersion": 1,
+  "minAppVersion": 94,
+  "levels": 3,
+  "origin": "LOCAL",
+  "animationSchema": {
+    "path": "animation.json",
+    "schemaId": "default",
+    "version": 1
+  },
+  "sprites": {
+    "type": "SEQUENCE",
+    "basePath": "sprites/",
+    "filePattern": "%04d.webp",
+    "spriteCount": 102,
+    "size": [
+      512,
+      512
+    ]
+  },
+  "preview": {
+    "thumbnail": "thumbnail.webp"
+  },
+  "author": {
+    "name": "Local Creator"
+  },
+  "license": {
+    "type": "CUSTOM",
+    "text": "Exported from Shimeji",
+    "attribution": "Local Creator"
+  }
+}
