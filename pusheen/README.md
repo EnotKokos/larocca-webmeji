@@ -1,0 +1,1 @@
+Pusheen sprites for WebMeji
